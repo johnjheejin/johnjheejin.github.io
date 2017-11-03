@@ -24,3 +24,5 @@ Ruby on Rails를 배워가는 단계의 GitHub 입니다.
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+
+그리고 작성자에게 무언가가 있음.
